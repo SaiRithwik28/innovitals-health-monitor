@@ -12,8 +12,8 @@ An advanced IoT-enabled health monitoring system designed for real-time patient 
 ## 📸 Hardware Setup / Demo
 
 <img width="823" height="1129" alt="WhatsApp Image 2026-04-14 at 12 34 55 PM (1)" src="https://github.com/user-attachments/assets/79474b86-5a8a-4021-837a-a6e2174532b5" />
+<img width="860" height="1220" alt="WhatsApp Image 2026-04-14 at 12 34 55 PM" src="https://github.com/user-attachments/assets/b0b0c31c-c359-4b72-8ca5-3c564cc95257" />
 
-<img width="860" height="1220" alt="WhatsApp Image 2026-04-14 at 12 34 55 PM" src="https://github.com/user-attachments/assets/0ebc3cb6-9df5-4061-9614572c97408cc7" />
 <img width="1228" height="1015" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/64479ec8-0f06-4675-be6f-89a993612016" />
 
 
